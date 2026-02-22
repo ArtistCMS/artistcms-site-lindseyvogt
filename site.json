@@ -3,9 +3,9 @@
     "navigation",
     "logo",
     "bio",
-    "releases",
     "socials",
-    "gallery"
+    "gallery",
+    "header"
   ],
   "css": {
     "theme": "dark",
@@ -31,7 +31,17 @@
       "Contact": "#socials"
     },
     "releases": [],
-    "socials": {},
+    "socials": {
+      "twitter": "https://twitter.com/LindseyVogt",
+      "facebook": "https://facebook.com/lindseyvogtmusic",
+      "youtube": "https://www.youtube.com/user/LindseyVogt",
+      "instagram": "https://www.instagram.com/vogtmusic/"
+    },
     "gallery": {}
+  },
+  "headerOptions": {
+    "showName": true,
+    "showGenre": false,
+    "showLogo": true
   }
 }
